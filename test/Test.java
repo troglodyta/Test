@@ -17,7 +17,7 @@ public class Test {
 	 */
 	public int sum(int j,int d)
 	{
-		return j+d;
+		return d+j;
 	}
 	public static void main(String[] args) 
 	{
