@@ -15,7 +15,7 @@ public class Test {
 	/**
 	 * @param args the command line arguments
 	 */
-	public int sum(int j,int d)
+	public int sum3(int j,int d)
 	{
 		
 		return d+j;
