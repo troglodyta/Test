@@ -15,8 +15,9 @@ public class Test {
 	/**
 	 * @param args the command line arguments
 	 */
-	public int sum(int j,int d)
+	public int sum2(int j,int d)
 	{
+		/////
 		return d+j;
 	}
 	public static void main(String[] args) 
